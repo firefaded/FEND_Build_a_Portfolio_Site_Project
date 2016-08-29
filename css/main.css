@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+/* Google font for main body of page */
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+/* Header font weight and color */
+
+header {
+  color: #000099;
+  font-weight: 300;
+}
+
+header h3 {
+  color: #0000e6
+}
+
+/* Color for h2 for the text featured work */
+
+.featured {
+  color: #36c;
+}
+
+/* Padding for footer */
+
+footer {
+  padding: 25px;
+}
+
+footer h3 {
+  color: #06c;
+}
+
+/* Remove underline from links and color link text */
+a:hover {
+  text-decoration: none;
+}
+
+.link {
+  text-decoration: none;
+  color: #0099cc;
+}
